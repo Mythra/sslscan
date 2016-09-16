@@ -1,7 +1,12 @@
 [package]
 name = "sslscan"
+description = "Uses Qualys SSL Scan tool from the Command-Line."
 version = "1.0.0"
 authors = ["Eric Coan <ecoan@instructure.com>"]
+license = "MIT"
+license-file = "LICENSE"
+homepage = "https://github.com/SecurityInsanity/sslscan"
+repository = "https://github.com/SecurityInsanity/sslscan"
 
 [dependencies]
 clap = "2"
